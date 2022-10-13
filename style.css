@@ -28,13 +28,13 @@ li {
 	text-decoration: underline;
 }
 
-ul {
+.cabeçalho {
 	display: grid;
 	grid-template-columns: 2fr 1fr 1fr 1fr;
 }
 
 .produtos {
-	width: 940px;
+	width: auto;
 	margin: 0 auto;
 	padding: 50px 0;
 }
