@@ -34,9 +34,13 @@ li {
 }
 
 .produtos {
-	width: 20%;
+	width: 940px;
 	margin: 0 auto;
 	padding: 50px 0;
+}
+
+.imagem {
+    width: 20%;
 }
 
 .produtos li:hover {
@@ -69,12 +73,14 @@ li {
 
 .produto-descricao {
 	font-size: 18px;
+    color: white;
 }
 
 .produto-preco {
 	font-size: 25px;
 	font-weight: bold;
 	margin: 10px 0 0;
+    color: white;
 }
 
 footer {
